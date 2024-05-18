@@ -137,7 +137,7 @@ const allChampions = computed<Champ[]>(() => {
       image: `https://ddragon.leagueoflegends.com/cdn/14.10.1/img/champion/${
         (value as any).image.full
       }`,
-      fullSplash: `https://ddragon.leagueoflegends.com/cdn/img/champion/loading/${key}_0.jpg`,
+      fullSplash: `https://ddragon.leagueoflegends.com/cdn/img/champion/splash/${key}_0.jpg`,
     });
   });
   return res;
