@@ -1,0 +1,18 @@
+.winner-enter-active {
+  @apply duration-100;
+}
+.winner-leave-active {
+  @apply duration-1000;
+}
+.winner-enter-from {
+  @apply opacity-0 scale-90;
+}
+.winner-enter-to {
+  @apply opacity-100 scale-100;
+}
+.winnter-leave-from {
+  @apply opacity-100;
+}
+.winner-leave-to {
+  @apply opacity-0;
+}

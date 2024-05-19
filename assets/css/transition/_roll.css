@@ -1,0 +1,9 @@
+.roll-enter-active,
+.roll-leave-active {
+  transition: opacity 0.3s ease;
+}
+
+.roll-enter-from,
+.roll-leave-to {
+  opacity: 0;
+}

@@ -1,0 +1,13 @@
+.right-drawer-enter-active,
+.right-drawer-leave-active {
+  @apply transition-transform ease-in-out duration-300;
+}
+
+.right-drawer-enter-from,
+.right-drawer-leave-to {
+  @apply translate-x-full;
+}
+.right-drawer-enter-to,
+.right-drawer-leave-from {
+  @apply translate-x-0;
+}

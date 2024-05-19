@@ -1,5 +1,5 @@
 <template>
-  <div class="space-y-6 max-w-[500px] mx-auto">
+  <div class="space-y-6 max-w-[500px] mx-auto pb-20">
     <section class="max-h-[200px] overflow-hidden rounded-lg">
       <img
         src="https://ddragon.leagueoflegends.com/cdn/img/champion/splash/LeeSin_0.jpg"

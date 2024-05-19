@@ -1,0 +1,7 @@
+.btn-ghost {
+  @apply p-2 px-3 bg-transparent hover:bg-slate-700 duration-300 h-fit w-fit border border-transparent;
+}
+
+.btn-ghost--active {
+  @apply border-indigo-600;
+}

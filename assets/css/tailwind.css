@@ -1,4 +1,8 @@
 @import "/node_modules/animate.css/animate.min.css";
+@import "./transition/_roll.css";
+@import "./transition/_winner.css";
+@import "./transition/_drawer.css";
+@import "./_button.css";
 
 @tailwind base;
 @tailwind components;
